@@ -28,4 +28,9 @@ https://huggingface.co/AEONA/QWEN-MED-GRPO-AEONA
 - `openai/gsm8k`: 数学推理问题
 - `qiaojin/PubMedQA`: 医学文献问答
 - `yesilhealth/Health_Benchmarks`: 医疗多选题
+
+## 用gradio做前端
+![2025-02-23 12-35-57屏幕截图](https://github.com/user-attachments/assets/9a231473-6e94-4d60-b1d4-c567cbf48149)
+![2025-02-23 12-34-20屏幕截图](https://github.com/user-attachments/assets/cdbc21d1-971a-43ca-91f6-7a31a2858580)
+
   
