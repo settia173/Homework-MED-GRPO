@@ -1,5 +1,5 @@
 # MedQwen3B-Reasoner
-MedQwen3B-Reasoner 是一个专门针对医学领域推理和数学问题求解优化的3B参数语言模型。该模型基于Qwen2.5-3B-Instruct，通过GRPO (Group Relative Policy Optimization) 进行了医学领域的特定适配。
+该模型基于Qwen2.5-3B-Instruct，通过GRPO (Group Relative Policy Optimization) 进行了医学领域的特定适配。
 # 参考：
 https://medium.com/@hooman_66365/build-your-own-medical-mini-deepseek-r1-with-reinforcement-learning-508509cd7d83
 # HUGGINGFACE仓库：
